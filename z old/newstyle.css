@@ -1,0 +1,36 @@
+body{
+	font-family: "arial", sans-serif;
+}
+
+.logo {
+	left:5px;
+}		
+
+nav.top {
+	text-align: right;
+	right:5px;
+	text-decoration: none;
+
+}		
+nav.left {
+	display: inline-block;
+	width: 20%;
+ 	vertical-align: top;
+}		
+
+article{
+  	display: inline-block;
+  	width: 700px;
+  	vertical-align: top;
+}
+
+h1{
+	font-size: 2.2em;
+	font-family: "impact", sans-serif;
+}
+
+h2{
+	font-family: "arial black", sans-serif;
+	font-size:1.5em;
+}
+  

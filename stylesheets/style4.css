@@ -1,0 +1,59 @@
+body{
+	font-family: "arial", sans-serif;
+	color:red;
+	}
+.logo{
+	display:inline-block;
+	margin: 0 0 0 2em;
+	vertical-align: text-bottom;
+	}
+
+nav.a{
+	color:red;
+	font-weight:bold;
+	display:inline-block;
+	vertical-align: text-bottom;
+	text-align:right;
+	margin:50em 1em 1em 0;	
+	}
+
+.rule{
+	width:5px;
+	color:red; 
+	clear:both;
+	float:none;
+	}
+
+article.left{
+	display:inline-block;
+	font-weight:bold;
+	width:200px;
+	margin:20px 5px 0 20px;
+	text-align: top;
+	}
+article.right{
+	display:inline-block;
+	width:600px;
+	text-align: top;
+	line-height:1.4em;
+	}
+@font-face {
+	font-family: "alternate_gothic_no.2_bt-webfont";
+	src:url(../stylesheets/fonts/alternate_gothic_no.2_bt-webfont);
+	}
+h1{
+	font-size:1.8em;
+	font-family: "alternate_gothic_no.2_bt-webfont", impact, sans-serif;
+	}
+h2{
+	font-family:"arial black", sans-serif;
+	font-size:1em;
+	}
+	footer{
+		display:block;
+		clear:both;
+		width: 100%;
+		margin: 20em 10em 0 2em;
+		bottom: 5px;
+		font-weight: bold;
+	}

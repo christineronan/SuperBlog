@@ -1,0 +1,26 @@
+body{
+	font-family:sans-serif;
+}
+
+.logo{
+	display:inline-block;
+	float:left;
+}
+
+.nav{
+	display:inline-block;
+	font-family:sans-serif;
+	text-align:right;
+	float:right;
+}
+nav.a{
+	display:inline-block;
+	font-family:sans-serif;
+	text-align:right;
+	float:right;
+
+}
+
+article.left{
+
+}
